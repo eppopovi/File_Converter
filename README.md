@@ -1,7 +1,7 @@
 # Local File Converter
 
 A Shiny app for converting, sorting, merging, and renaming local files.  
-Converted files are downloaded as a ZIP archive.
+Converted files are downloaded as a ZIP archive. Runs best with R and RStudio installed
 
 ## Features
 

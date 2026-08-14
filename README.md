@@ -21,3 +21,8 @@ Converted files are downloaded as a ZIP archive. Runs best with R and RStudio in
 ## Requirements
 
 Install the required R packages:
+library(shiny)
+library(tools)
+library(fs)
+library(zip)
+library(magick)
